@@ -1,0 +1,4 @@
+-> Pleas Open VPN Before Run The Project.
+
+-> Firebase (DB) Link:
+	https://react-http-de91a-default-rtdb.firebaseio.com/
